@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Barlow';
+    src: url(../fonts/barlow-v12-latin/barlow-v12-latin-regular.ttf);
+}
+
+@font-face {
+    font-family: 'Barlow';
+    src: url(../fonts/barlow-v12-latin/barlow-v12-latin-regular.woff);
+}
+
+@font-face {
+    font-family: 'Barlow';
+    src: url(../fonts/barlow-v12-latin/barlow-v12-latin-regular.woff2);
+}
+
+@font-face {
+    font-family: 'Fraunces';
+    src: url(../fonts/fraunces-v24-latin/fraunces-v24-latin-regular.ttf);
+}
+
+@font-face {
+    font-family: 'Fraunces';
+    src: url(../fonts/fraunces-v24-latin/fraunces-v24-latin-regular.woff)
+}
+
+@font-face {
+    font-family: 'Fraunces';
+    src: url(../fonts/fraunces-v24-latin/fraunces-v24-latin-regular.woff2);
+}
